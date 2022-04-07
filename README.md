@@ -24,3 +24,5 @@ some of my favorite numbers
 - 5mm
 - 36
 - #252525
+
+[![riso's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/risograph/github-readme-stats)
