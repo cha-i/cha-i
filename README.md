@@ -9,6 +9,9 @@
   ███    ███ █▀    ▄████████▀   ▀██████▀  
   ███    ███                              
 ```
+
+[![riso's GitHub stats](https://github-readme-stats.vercel.app/api?username=risograph&show_icons=true&theme=dracula)](https://github.com/risograph/github-readme-stats)
+
 root beer tapper professional
 
 helvetica identifier 
@@ -24,5 +27,3 @@ some of my favorite numbers
 - 5mm
 - 36
 - #252525
-
-[![riso's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/risograph/github-readme-stats)
