@@ -12,15 +12,15 @@
 <br>
 <img src="https://cdn.discordapp.com/attachments/476246249796927499/965060169551732806/text1.gif" width="400"/> 
 
-<a href="https://www.glitter-graphics.com"><img src="http://dl4.glitter-graphics.net/pub/824/824834ttykjfe6uz.gif" width=600 height=83 border=0></a>
+<img src="http://dl4.glitter-graphics.net/pub/824/824834ttykjfe6uz.gif" width=600 height=83 border=0></a>
 <div align="left">
   
    
 ----
-
-#### CURRENT PROJECT: [Jumblejot](https://github.com/sargent-coding/jumblejot)
+#### CURRENT PROJECT: [Jumblejot](https://github.com/sargent-coding/jumblejot)<img src="http://www.wonder-tonic.com/geocitiesizer/images/floppy-05.gif" width="20"/>
 Working hard for release, help support our small team by starring the repo above <3
-
+                                                                                    
+<img src="http://dl8.glitter-graphics.net/pub/432/432968wwi0anufp3.gif" width=169 height=186 border=0></a>
 ----
 <div align="center">
    
